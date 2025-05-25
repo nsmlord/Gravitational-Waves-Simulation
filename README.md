@@ -1,6 +1,8 @@
 # Gravitational-Waves-Simulation  
 
 ## Overview  
+Created by Nishanth Mandala and Kevin Zhang
+
 This project simulates relativistic spatial phenomena and weak-field approximated gravitational waves. Using numerical methods and computational physics techniques, the simulation explores how gravitational waves propagate and interact with their environment under weak-field approximations of general relativity.
 
 ## Project Structure  
